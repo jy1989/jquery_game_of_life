@@ -4,6 +4,6 @@ click to pause
 
 and draw the cell by hover
 
-- see the demo
+- Demo
 
-<http://chenjianyi.com>
+   <http://chenjianyi.com>
